@@ -19,8 +19,8 @@ Config.whitelist = [
 // `defaultserver` specifies the server to use when the domain name in the
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
-	id: 'showdown',
-	host: 'sim3.psim.us',
+	id: 'impulse',
+	host: 'server.impulse-server.fun',
 	port: 443,
 	httpport: 8000,
 	altport: 80,
